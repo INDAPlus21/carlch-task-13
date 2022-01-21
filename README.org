@@ -1,4 +1,4 @@
-* Raytracer in Rust++ (C)
+* Raytracer in Rust++ (C++)
 
 Dear professor,
 I am currently unable to hand my project in as I am currently in a standoff with a foul demon of decades past. As of this moment I cannot surrender this duel of fates.
